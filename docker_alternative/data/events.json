@@ -1,0 +1,1 @@
+[{"type": "event1", "user": "user1"}, {"type": "event2", "user": "user2"}, {"type": "event1", "user": "user2"}, {"type": "event2", "user": "user2"}, {"type": "event1", "user": "user1"}, {"type": "event1", "user": "user3"}]
