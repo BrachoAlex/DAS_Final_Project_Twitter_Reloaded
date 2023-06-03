@@ -1,4 +1,4 @@
-# Twitter Reloaded - A small messagin app built on python 
+# Twitter Reloaded - A small message app built on python 
 
 This repository showcases the final project of Arquitecture and Software Design - 551- 2023 
 
